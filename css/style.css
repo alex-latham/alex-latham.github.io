@@ -1,0 +1,70 @@
+.inline-block{
+    display: inline-block;
+    vertical-align: top;
+    
+}
+
+.logo{
+    width: 20%;
+    padding: 2%;
+    text-align: center;
+}
+
+.heroImg{
+    height: 900px;
+    padding: 0px;
+    float: center;
+    text-align: right;
+            
+}
+
+.content{
+    width: 900px;
+    margin: 0 auto;
+   
+
+}
+
+.Skills{
+    width: 900px;
+    margin: 0 auto;
+   
+
+}
+
+.left {
+    float: left;
+    padding: 0 150px 0 0;
+   
+}
+
+nav{
+    width: 72%;
+    padding: 1%;
+    
+}
+
+ul{
+    width: 20%;
+    margin-left: auto;
+    
+}
+
+body{
+    background-color: black;
+    color: #08308a;
+
+}
+
+footer{
+    background-color: black;
+    width: 100%;
+    padding: 0%;
+    text-align: center;
+
+}
+
+footer > ul {
+    display: inline-block; 
+    vertical-align: top;
+}
